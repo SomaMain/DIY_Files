@@ -9,4 +9,4 @@ The Gerber, BOM, and Pick-n-Place folders have files exported from the assembly.
 
 You can visit: https://jlcpcb.com/?href=easyeda-home to have your own boards made and sent to you.
 
-![](Image/mountingBoard_v0.6_pcb.png)
+![](Images/mountingBoard_v0.6_pcb.png)
