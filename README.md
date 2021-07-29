@@ -11,7 +11,6 @@ You can visit: https://jlcpcb.com/?href=easyeda-home to have your own boards mad
 
 # Mounting Board V0.6
 This small pcb will help organize your parts. You can fit 6 designs on a single board. So technically, you could get 30 boards for around $12. 
-![](Images/mountingBoard_v0.6_pcb.png)
 
 # Mounting Board V0.6 Schematic
 ![](Images/mountingBoard_v0.6_schematic.png)
